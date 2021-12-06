@@ -1,0 +1,25 @@
+emp_no,first_name,last_name,birth_date,from_date,to_date,title
+110022,Margareta,Markovitch,1956-09-12,1985-01-01,1991-10-01,Senior Staff
+110039,Vishwani,Minakawa,1963-06-21,1991-10-01,9999-01-01,Manager
+110085,Ebru,Alpin,1959-10-28,1985-01-01,1989-12-17,Senior Staff
+110114,Isamu,Legleitner,1957-03-28,1989-12-17,9999-01-01,Senior Staff
+110183,Shirish,Ossenbruggen,1953-06-24,1985-01-01,1992-03-21,Manager
+110228,Karsten,Sigstam,1958-12-02,1992-03-21,9999-01-01,Manager
+110303,Krassimir,Wegerle,1956-06-08,1985-01-01,1988-09-09,Manager
+110344,Rosine,Cools,1961-09-07,1988-09-09,1992-08-02,Technique Leader
+110386,Shem,Kieras,1953-10-04,1992-08-02,1996-08-30,Manager
+110420,Oscar,Ghazalie,1963-07-27,1996-08-30,9999-01-01,Manager
+110511,DeForest,Hagimont,1957-07-08,1985-01-01,1992-04-25,Manager
+110567,Leon,DasSarma,1964-04-25,1992-04-25,9999-01-01,Technique Leader
+110725,Peternela,Onuegbe,1961-03-14,1985-01-01,1989-05-06,Technique Leader
+110765,Rutger,Hofmeyr,1954-05-22,1989-05-06,1991-09-12,Manager
+110800,Sanjoy,Quadeer,1963-02-07,1991-09-12,1994-06-28,Senior Engineer
+110854,Dung,Pesch,1960-08-19,1994-06-28,9999-01-01,Technique Leader
+111035,Przemyslawa,Kaelbling,1962-02-24,1985-01-01,1991-03-07,Staff
+111133,Hauke,Zhang,1955-03-16,1991-03-07,9999-01-01,Staff
+111400,Arie,Staelin,1959-11-09,1985-01-01,1991-04-08,Manager
+111534,Hilary,Kambil,1952-06-27,1991-04-08,9999-01-01,Senior Staff
+111692,Tonny,Butterworth,1954-10-05,1985-01-01,1988-10-17,Staff
+111784,Marjo,Giarratana,1956-06-14,1988-10-17,1992-09-08,Senior Staff
+111877,Xiaobin,Spinelli,1962-10-18,1992-09-08,1996-01-03,Staff
+111939,Yuchang,Weedman,1960-03-25,1996-01-03,9999-01-01,Senior Staff
